@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TravisExample.iml" filepath="$PROJECT_DIR$/TravisExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travis-example-android.iml" filepath="$PROJECT_DIR$/travis-example-android.iml" />
     </modules>
   </component>
 </project>
